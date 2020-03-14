@@ -1,0 +1,9 @@
+Citi Bike Analytics
+-----------------------
+
+I analyzed Citi Bikers dataset for Winter of 2018. Analysis was done for the months of January, February and December.
+
+1. Male Bikers Dominate Over Female Bikers in Winter, 2018: First story point clearly shows higher number of points for the male bikers (orange points) as compared to the female bikers (red points).
+2. Most Popular Station Among Citi Bikers for Winter, 2018: The tables in my second story point show 'Pershing Square North' station to be the most popular among the riders by a huge margin compared to rest of the stations.
+3. 40-50 yrs Age-Group Bikers Take Longest Bike Trips: Bikers in the age group of 40-50 years tend to go on longer bike trips compared to other age groups as their avg. trip duration (at least 1000 seconds) was the highest.
+4. Map Showing Most Popular Locations to Start/End Journey: The size of dots on the map in last two story points show the popularity of stations amongst the bikers.
